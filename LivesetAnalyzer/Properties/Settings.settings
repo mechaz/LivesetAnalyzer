@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LivesetAnalyzer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LivesetsRootPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">standardpfad</Value>
+    </Setting>
+    <Setting Name="LiveExePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">standardexe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

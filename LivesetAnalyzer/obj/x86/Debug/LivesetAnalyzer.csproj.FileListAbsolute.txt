@@ -1,0 +1,55 @@
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\LivesetAnalyzer.exe
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\LivesetAnalyzer.pdb
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.Form1.resources
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.MessageClosingForm.resources
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.Properties.Resources.resources
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.exe
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.pdb
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\Interop.WMPLib.dll
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.csproj.ResolveComReference.cache
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.Form1.resources
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.MessageClosingForm.resources
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.Properties.Resources.resources
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\LivesetAnalyzer.exe.config
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\LivesetAnalyzer.exe
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\LivesetAnalyzer.pdb
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\NAudio.dll
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\NAudio.WindowsMediaFormat.dll
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.exe
+D:\Workspaces\Visual Studio\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.pdb
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\LivesetAnalyzer.exe.config
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\Interop.WMPLib.dll
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.csproj.ResolveComReference.cache
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.exe
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.pdb
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\LivesetAnalyzer.exe
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\LivesetAnalyzer.pdb
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\NAudio.dll
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\NAudio.WindowsMediaFormat.dll
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.MessageClosingForm.resources
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.Properties.Resources.resources
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WORKSPACES\VISUAL STUDIO\Projects\C#\20130424_LivesetAnalyzer\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.MainForm.resources
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.csproj.ResolveComReference.cache
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.MainForm.resources
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.MessageClosingForm.resources
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.Properties.Resources.resources
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\LivesetAnalyzer.exe.config
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\LivesetAnalyzer.exe
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\LivesetAnalyzer.pdb
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\NAudio.dll
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.exe
+C:\Users\MobDef\Documents\GitHub\LivesetAnalyzer\LivesetAnalyzer\obj\x86\Debug\LivesetAnalyzer.pdb
